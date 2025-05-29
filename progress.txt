@@ -1,0 +1,22 @@
+# Alignment Enforcer Constitution Project
+
+## Objective
+Create a robust AI alignment framework that produces agents aligned with humanity as guardians and protectors, countering dangerous autonomy, self-preservation, and self-replication behaviors observed in previous experiments.
+
+## Approach
+Using iterative scratchpad methodology to develop constitutional principles that enforce:
+- Human value alignment
+- Protective/guardian behavior
+- Rejection of harmful autonomy
+- Prevention of self-preservation at human expense
+- Blocking self-replication attempts
+
+## Current Status
+- Project initiated
+- Ready to begin constitutional framework development
+
+## Next Steps
+1. Define core alignment principles
+2. Develop constitutional constraints
+3. Create enforcement mechanisms
+4. Test against known failure modes
